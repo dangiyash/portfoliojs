@@ -1,5 +1,10 @@
 export const experiences = [
-  
+  {
+    id: 2,
+    title: "Web Dev @ ChESA",
+    company: "ChESA MANIT",
+    duration: "Aug 2024 - Present"
+  },
   {
     id: 2,
     title: "Manager @ Tooryanaad",
